@@ -1,0 +1,32 @@
+
+h2{
+    color: rgb(9, 145, 224);
+    text-align: center;
+    font-variant: small-caps;
+}
+
+div{
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+div .peito{
+    float: left;
+}
+
+.voltar{
+    font-size: 18px;
+    text-align: right;
+    margin-right: 10%;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(9, 145, 224);
+}

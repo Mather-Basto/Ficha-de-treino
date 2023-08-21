@@ -1,0 +1,40 @@
+*{
+}
+
+h1{
+    font-variant: small-caps;
+}
+
+
+table{
+    box-sizing: border-box;
+    margin: auto;
+    background-color: antiquewhite;
+    text-align: center;
+    width:55%;
+    font-variant: small-caps;
+    border-style: dashed;
+}
+
+th{
+    color: rgb(9, 145, 224) ;
+}
+
+div{
+    text-align: center;
+}
+.voltar{
+    font-size: 18px;
+    text-align: right;
+    margin-right: 10%;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(9, 145, 224);
+}
